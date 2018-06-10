@@ -1,6 +1,6 @@
 # arduino-little-calculator
 
-a calculator which can calculate simple arithmetic expression。
+a calculator which can calculate simple arithmetic expression.
 
 Use IR remote controller as the input, the input bottons and their corresponding functions are as follows
 ####################################
