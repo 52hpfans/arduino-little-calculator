@@ -1,5 +1,7 @@
 # arduino-little-calculator
 
+a calculator which can calculate simple arithmetic expression。
+
 Use IR remote controller as the input, the input bottons and their corresponding functions are as follows
 ####################################
 remote controller code	
@@ -36,5 +38,7 @@ left	delete	right
 7	8	9
 
 left: cursor move left
+
 right: cursor move right
+
 delete: delete the num where cursor locate
